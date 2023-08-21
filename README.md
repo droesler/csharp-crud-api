@@ -31,3 +31,5 @@ Run the app container:
 ```sh
 docker compose up csharp_app
 ```
+
+http requests are made to localhost:8080/api/users
