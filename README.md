@@ -1,6 +1,6 @@
 # csharp-crud-api
 
-Asp.net EntityFrameworkCore backend running postgresql db.
+Asp.net EntityFrameworkCore backend running postgresql db in docker.
 
 The vue 3 frontend for this project is at:  [https://github.com/droesler/user_list_vue_frontend](https://github.com/droesler/user_list_vue_frontend)
 
